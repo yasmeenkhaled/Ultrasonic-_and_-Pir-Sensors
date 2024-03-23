@@ -1,5 +1,5 @@
 # Ultrasonic-_and_-Pir-Sensors
-If Ultrasonic sensor distance is less than 30 and motion not detected that Leds turn on Else Leds turn off and Buzzer turn on 
+If Ultrasonic sensor distance is less than 30 and motion detected that Leds turn on Else Leds turn off and Buzzer turn on 
 ## Compontes:
  
  - 1 Red LED (12V RED DIFFUSED LED, 5MM (T1 3/4))
